@@ -1,0 +1,9 @@
+{
+    "student_info": [
+      { "id": 1, "name": "hari", "place": "chennai" },
+      { "id": 2, "name": "krishnan", "place": "thiruvalu" },
+      { "id": 3, "name": "nari", "place": "kanchipuram" },
+      { "id": 4, "name": "sori", "place": "kilpauk" }
+    ]
+
+  }
